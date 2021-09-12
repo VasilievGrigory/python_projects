@@ -1,0 +1,1 @@
+Decorator of effects applied to the hero.
